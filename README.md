@@ -1,5 +1,5 @@
 # Regressão Linear CEPEDI
-Grupo 12 
+Grupo 85 
 Ítalo de Paulo Santana
 Maicon Souza Sena
 Descrição do Projeto: Este projeto utiliza um algoritmo de Regressão Linear para prever a taxa de engajamento de influenciadores no Instagram com base em variáveis como número de seguidores, média de curtidas e outras métricas. O objetivo principal é fornecer uma análise preditiva robusta que auxilie marcas e influenciadores a entenderem o desempenho de suas interações.
